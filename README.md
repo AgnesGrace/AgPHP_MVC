@@ -11,7 +11,7 @@ Separation of concerns: The framework encourages a clear separation of concerns 
 ...
 To get started with the basic MVC framework, follow these steps:
 
-`Clone the repository`
+`Clone the repository(fork the repo)`
 Configure your web server (e.g., Apache) to point to the project's root directory.
 Set up a database and update the database configuration in the config/database.php file.
 
