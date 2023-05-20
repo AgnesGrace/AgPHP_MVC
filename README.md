@@ -36,3 +36,7 @@ Contributions to the basic MVC framework are welcome! If you find any issues, ha
 
 `Acknowledgements`
 This basic MVC framework was inspired by various PHP frameworks and follows best practices in MVC architecture and PHP development.
+
+# Note
+
+It is important to visit the `.htaccess` in the public folder and change the `RewriteBase` to your specific `folder/public`
